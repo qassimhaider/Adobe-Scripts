@@ -1,6 +1,6 @@
 ﻿	/* This Script is wrote by Qassim Haider.*********/
 	/* (c) 2007 QassimHaider - all rights reserved.*****/
-	/* www.qalligraphy.net ***************************/
+	/* www.qtypography.com ***************************/
 	//Date 28 Nov 2008
 	//LastUpdate 9 Feb 2009
 
@@ -40,7 +40,7 @@ A7	75	x	105
 	function show_dlg(){
 		var dlg = new Window('dialog', '\"A\" Dimension Creator', [100,100,600,250]);
 			
-		dlg.Label4 = dlg.add('statictext',[20,125,320,145], 'Qassim Haider, qassim.haider@gmail.com');
+		dlg.Label4 = dlg.add('statictext',[20,125,320,145], 'Qassim Haider, qassim@qtypography.com');
 			
 		dlg.Panel = dlg.add('panel', [10,10,490,100], '');
 		
