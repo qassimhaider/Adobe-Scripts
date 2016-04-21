@@ -1,7 +1,7 @@
 ﻿	/* This Script is wrote by Qassim Haider.*********/
 	/* (c) 2007 QassimHaider - all rights reserved.*****/
 	/* www.qalligraphy.net ***************************/
-	//LastUpdate 28 Nov 2008
+	//Date 28 Nov 2008
 	//LastUpdate 9 Feb 2009
 
 /*
