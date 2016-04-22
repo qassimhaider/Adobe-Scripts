@@ -5,8 +5,8 @@
 	//LastUpdate 9 Feb 2009
 
 /*
-	Size	Millimetres
-	Width	Height
+#	Size in	Millimetres
+Page	Width	Height
 A0	841	x	1189
 A1	594	x	841	
 A2	420	x	594
