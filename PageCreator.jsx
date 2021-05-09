@@ -22,12 +22,6 @@ A7	75	x	105
 #target Photoshop
 
 
-
-
-
-
-
-
 	try {
 		show_dlg();
 	}
